@@ -1,2 +1,2 @@
-# Pagina para un fotografo
+# Página para un fotográfo
 Pagina para un fotografo
