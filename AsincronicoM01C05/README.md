@@ -1,2 +1,2 @@
-# Asincornico5
+# Pagina para un fotografo
 Pagina para un fotografo
